@@ -1,19 +1,21 @@
 ## 📁 PorlandBT Proje & Depo Klasörleri (417 Repo)
 
-Aşağıdaki klasör başlıklarına tıklayarak ilgili alana ait depoları doğrudan filtreleyebilirsiniz:
+Aşağıdaki klasör bağlantılarına tıklayarak ilgili iş alanına ait depoları doğrudan filtreleyebilirsiniz:
 
-| Klasör / Alan | Kapsam & İçerik | Hızlı Erişim |
+| Klasör / İş Alanı | Kapsam & Sistemler | Hızlı Erişim |
 | :--- | :--- | :--- |
-| 📂 **WPROG & AS400** | `WPROG` serisi web/masaüstü uygulamaları, AS400 bağlantıları | [Klasörü Aç (Filtrele) ➔](https://github.com/orgs/PorlandBT/repositories?q=topic%3Awprog-as400) |
-| 📂 **E-Ticaret & Entegrasyon** | Ticimax, Akinon, B2B Portallar, PIM, Sipariş Aktarım & CDN | [Klasörü Aç (Filtrele) ➔](https://github.com/orgs/PorlandBT/repositories?q=topic%3Aeticaret-entegrasyon) |
-| 📂 **Muhasebe & Finans** | Cari Ekstre, Muavin, Mizan, E-İrsaliye, Fatura ve Masraf sistemleri | [Klasörü Aç (Filtrele) ➔](https://github.com/orgs/PorlandBT/repositories?q=topic%3Amuhasebe-finans) |
-| 📂 **Kurumsal ERP & Hukuk** | `Porland.Erp`, `PSTP300` serisi, Hukuk Takip, Müşteri Hizmetleri, İK | [Klasörü Aç (Filtrele) ➔](https://github.com/orgs/PorlandBT/repositories?q=topic%3Akurumsal-erp) |
-| 📂 **Raporlama & Stok** | Satış, Stok, Fiyat Listesi, Mağaza ve Termin raporları | [Klasörü Aç (Filtrele) ➔](https://github.com/orgs/PorlandBT/repositories?q=topic%3Araporlama) |
-| 📂 **Altyapı & Araçlar** | WatchGuard, CloudPulse, 3DViewer, Ortak Modüller | [Klasörü Aç (Filtrele) ➔](https://github.com/orgs/PorlandBT/repositories?q=topic%3Aaltyapi-araclar) |
+| 📂 **1. WPROG Modülleri** | `WPROG` serisi ekranlar, formlar, onaylar ve rapor arayüzleri | [Klasörü Aç ➔](https://github.com/orgs/PorlandBT/repositories?q=topic%3Awprog) |
+| 📂 **2. AS400 & SQL Veri Aktarımı** | `AS400_TO_SQL`, `SqldenAs400e`, `FT10/FT11/FT12`, `PEIRS`, `PSTP300` | [Klasörü Aç ➔](https://github.com/orgs/PorlandBT/repositories?q=topic%3Aas400-sql-sync) |
+| 📂 **3. E-Ticaret, Akinon & Ticimax** | Akinon, Ticimax, B2B, Pazaryerleri, PIM, Kampanya & Kupon | [Klasörü Aç ➔](https://github.com/orgs/PorlandBT/repositories?q=topic%3Aeticaret-pazaryeri) |
+| 📂 **4. Ürün, Katalog & Görsel Yönetimi** | `Products`, Görsel/Resim aktarımları, Barkod, EAN13, Etiket, 3DViewer | [Klasörü Aç ➔](https://github.com/orgs/PorlandBT/repositories?q=topic%3Aurun-gorsel-katalog) |
+| 📂 **5. Sipariş, Sevkiyat & Mağaza** | Sipariş aktarımları, İrsaliye, Kargo, Palet, Mal Toplama, Mağaza/Showroom | [Klasörü Aç ➔](https://github.com/orgs/PorlandBT/repositories?q=topic%3Asiparis-lojistik-magaza) |
+| 📂 **6. Finans, Fatura & Muhasebe** | Cari Hesap, Muavin, Mizan, E-Fatura, Sanal POS, Banka, Masraf | [Klasörü Aç ➔](https://github.com/orgs/PorlandBT/repositories?q=topic%3Afinans-fatura-muhasebe) |
+| 📂 **7. Kurumsal, İK, Hukuk & CRM** | `Porland.Erp`, Hukuk/Dava, İK/Personel, Müşteri Hizmetleri, SMS/IYS | [Klasörü Aç ➔](https://github.com/orgs/PorlandBT/repositories?q=topic%3Akurumsal-ik-hukuk) |
+| 📂 **8. Raporlama, Altyapı & Arşiv** | Tüm Raporlar, WatchGuard, CloudPulse, Şablon & Kopya (`-1`, `-Kopya`) repolar | [Klasörü Aç ➔](https://github.com/orgs/PorlandBT/repositories?q=topic%3Araporlama) |
 
 ---
 
-### 🔍 Hızlı Arama İpuçları
-* **Sadece C# projeleri:** [C# Repolarını Göster](https://github.com/orgs/PorlandBT/repositories?language=c%23)
-* **Sadece JavaScript projeleri:** [JS Repolarını Göster](https://github.com/orgs/PorlandBT/repositories?language=javascript)
-* **Etiketsiz (Klasörlenmemiş) Kalanlar:** Arama çubuğuna `-topic:wprog-as400 -topic:eticaret-entegrasyon -topic:muhasebe-finans -topic:kurumsal-erp -topic:raporlama -topic:altyapi-araclar` yazarak henüz bir klasöre girmemiş repoları yakalayabilirsiniz.
+### ⚡ Ekstra Hızlı Filtreler
+* **Sadece Raporlar (Tüm Modüller):** [Rapor Repolarını Gör](https://github.com/orgs/PorlandBT/repositories?q=topic%3Araporlama)
+* **Altyapı & Araçlar (CloudPulse, WatchGuard, CDN, API):** [Altyapı Repolarını Gör](https://github.com/orgs/PorlandBT/repositories?q=topic%3Aaltyapi-araclar)
+* **Yedek, Kopya ve Test Şablonları (`-Kopya`, `ConsoleApp1` vb.):** [Arşiv / Test Repolarını Gör](https://github.com/orgs/PorlandBT/repositories?q=topic%3Aarsiv-kopya-test)
